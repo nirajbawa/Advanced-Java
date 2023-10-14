@@ -6,8 +6,6 @@ import java.awt.*;
 public class Main extends JFrame {
     Main()
     {
-
-
         ImageIcon ico = new ImageIcon("G:\\code\\java\\Advanced-java\\swing\\Exp6\\send.png");
         JTextArea ja = new JTextArea(20, 30);
         JScrollPane jsp = new JScrollPane(ja);
