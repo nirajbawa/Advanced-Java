@@ -1,4 +1,4 @@
-//package net.exp17;
+//package net.Main;
 
 import java.io.IOException;
 import java.net.DatagramPacket;

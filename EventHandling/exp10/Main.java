@@ -1,4 +1,4 @@
-// package EventHandling.exp10;
+ package EventHandling.exp10;
 
 import java.applet.Applet;
 import java.awt.Graphics;
