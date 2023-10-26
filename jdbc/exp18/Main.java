@@ -1,4 +1,4 @@
-//package jdbc.exp17;
+package jdbc.exp18;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
