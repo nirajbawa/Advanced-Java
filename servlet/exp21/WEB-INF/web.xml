@@ -1,0 +1,13 @@
+<web-app>  
+  
+<servlet>  
+<servlet-name>exp21</servlet-name>  
+<servlet-class>Main</servlet-class>  
+</servlet>  
+  
+<servlet-mapping>  
+<servlet-name>exp21</servlet-name>  
+<url-pattern>/</url-pattern>  
+</servlet-mapping>  
+  
+</web-app>  

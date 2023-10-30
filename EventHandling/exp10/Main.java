@@ -7,7 +7,7 @@ import java.awt.*;
 
 
 
-/*<applet code="Main" width="300" height="300"> 
+/*<applet code="Exp21" width="300" height="300">
 </applet>  */
 
 public class Main extends Applet implements KeyListener {
